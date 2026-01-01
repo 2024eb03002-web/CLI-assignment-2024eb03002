@@ -6,8 +6,11 @@ You have just joined IxD Systems as a junior systems engineer. On your first day
    Your name or login ID must appear in the output.
 i used the command the id to display all groups my user account belomgs to, along with my unique user id
 command:-id
+
 output:-uid=1000(jelly) gid=1000(jelly) groups=1000(jelly),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users)
+
 <img width="1581" height="58" alt="Screenshot 2026-01-02 000650" src="https://github.com/user-attachments/assets/e23c7617-c6f5-49e8-bce9-80ab6c0b8571" />
+
 
 
 3. Workspace Validation
